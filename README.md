@@ -5,4 +5,4 @@ https://www.robots.ox.ac.uk/~vgg/data/pets/
 HOW TO GUIDE:
 1. Clone this repo to your computer
 2. Open your aws account run sagemaker with ml.p3.2xlarge instance  (will cost you arround 5$)
-3. run the notebook step by step according to your dataset
+3. run the notebook cells step by step according to your dataset.
